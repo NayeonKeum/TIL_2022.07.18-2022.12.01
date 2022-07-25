@@ -8,3 +8,5 @@
 - [2022.07.21](https://github.com/NayeonKeum/Algo-java/tree/master/Section1) [CodingTest] Java #3
 - [2022.07.22](https://github.com/NayeonKeum/Algo-java/tree/master/Section1) [CodingTest] Java #2
 - [2022.07.23](https://github.com/NayeonKeum/Algo-java/tree/master/Section1) [CodingTest] Java #3
+- [2022.07.24](https://github.com/NayeonKeum/Algo-java/tree/master/Section1) [CodingTest] Java #3
+- [2022.07.25](https://github.com/NayeonKeum/Algo-java/tree/master/Section1) [CodingTest] Java #3
