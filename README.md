@@ -9,5 +9,6 @@
 - [2022.07.22](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #2
 - [2022.07.23](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.07.24](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
-- [2022.07.25](https://github.com/yxbxn/smart_farm/pull/7): [Smart Farm] 내부 온도 Pseudo code 고도화
-- [2022.07.26](https://github.com/yxbxn/smart_farm/pull/7): [Smart Farm] 내부 온도 Pseudo code 고도화
+- [2022.07.25](https://github.com/yxbxn/smart_farm): [Smart Farm] 내부 온도 Pseudo code 고도화
+- [2022.07.26](https://github.com/yxbxn/smart_farm): [Smart Farm] 내부 온도 Pseudo code 고도화
+- [2022.07.27](https://github.com/Scooter-2022/Model): [AI-HPA] Model 고도화
