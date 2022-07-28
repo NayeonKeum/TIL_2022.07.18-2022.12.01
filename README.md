@@ -12,3 +12,4 @@
 - [2022.07.25](https://github.com/yxbxn/smart_farm): [Smart Farm] 내부 온도 Pseudo code 고도화
 - [2022.07.26](https://github.com/yxbxn/smart_farm): [Smart Farm] 내부 온도 Pseudo code 고도화
 - [2022.07.27](https://github.com/Scooter-2022/Model): [AI-HPA] Model 고도화
+- [2022.07.28](https://github.com/NayeonKeum/website): [K8s] Open source contribution
