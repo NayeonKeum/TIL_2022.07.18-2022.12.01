@@ -26,3 +26,4 @@
 - [2022.08.08](https://github.com/yxbxn/smart_farm): [Smart Farm] 마무리
 - [2022.08.09](https://github.com/Scooter-2022/Model): [AI-HPA] 마무리
 - [2022.08.10](https://github.com/Scooter-2022/Model): [AI-HPA] 마무리
+- [2022.08.11](https://github.com/NayeonKeum/website): [K8s] Open source contribution
