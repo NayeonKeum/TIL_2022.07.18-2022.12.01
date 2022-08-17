@@ -32,4 +32,4 @@
 - [2022.08.14](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.08.15](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.08.16](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
-- [2022.08.17](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
+- [2022.08.17](): [Search Engine] Elasticsearch 실무 가이드 1, 2장
