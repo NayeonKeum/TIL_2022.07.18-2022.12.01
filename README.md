@@ -43,3 +43,4 @@
 - [2022.08.25](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - 2022.08.26: 휴무
 - [2022.08.27](): [Search Engine] Elasticsearch 실무 가이드 5장
+- [2022.08.28](): [Search Engine] Elasticsearch 실무 가이드 6장
