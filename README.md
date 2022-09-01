@@ -47,3 +47,4 @@
 - 2022.08.29: 휴무
 - [2022.08.30](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.08.31](https://github.com/BOAZ-bigdata/19Engineering_BASE):[BOAZ] 강의자료 제작(week_7)
+- [2022.09.01](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
