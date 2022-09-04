@@ -41,12 +41,13 @@
 - [2022.08.23](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.08.24](https://github.com/Scooter-2022): [AI-HPA] 결선 준비
 - [2022.08.25](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
-- 2022.08.26: 휴무
+- [2022.08.26](): 휴무
 - [2022.08.27](): [Search Engine] Elasticsearch 실무 가이드 5장
 - [2022.08.28](): [Search Engine] Elasticsearch 실무 가이드 6장
-- 2022.08.29: 휴무
+- [2022.08.29](): 휴무
 - [2022.08.30](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.08.31](https://github.com/BOAZ-bigdata/19Engineering_BASE):[BOAZ] 강의자료 제작(week_7)
 - [2022.09.01](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.09.02](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
-- 2022.09.03: 쿠버네티스 로컬 빌드
+- [2022.09.03](): 쿠버네티스 로컬 빌드
+- [2022.08.28](): [Search Engine] Elasticsearch 실무 가이드 7장
