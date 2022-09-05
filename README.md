@@ -50,4 +50,5 @@
 - [2022.09.01](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.09.02](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.09.03](): 쿠버네티스 로컬 빌드
-- [2022.08.28](): [Search Engine] Elasticsearch 실무 가이드 7장
+- [2022.09.04](): [Search Engine] Elasticsearch 실무 가이드 7장
+- [2022.09.05](): [수업] 클라우드 컴퓨팅, 네트워크 
