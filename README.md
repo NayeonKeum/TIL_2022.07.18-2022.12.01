@@ -57,4 +57,5 @@
 - [2022.09.08](): 오프
 - [2022.09.09](https://github.com/NayeonKeum/BigContest2022): [빅콘테스트2022] Case Study
 - [2022.09.10](https://github.com/NayeonKeum/website): [K8s] Open source contribution
+- [2022.09.11](https://github.com/NayeonKeum/dashboard): [K8s] Open source contribution
 
