@@ -58,4 +58,4 @@
 - [2022.09.09](https://github.com/NayeonKeum/BigContest2022): [빅콘테스트2022] Case Study
 - [2022.09.10](https://github.com/NayeonKeum/website): [K8s] Open source contribution
 - [2022.09.11](https://github.com/NayeonKeum/dashboard): [K8s] Open source contribution
-
+- [2022.09.12](): [Statistics] 수리통계학: 확률변수와 함수의 분포
