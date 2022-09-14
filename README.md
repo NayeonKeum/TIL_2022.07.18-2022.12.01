@@ -59,4 +59,5 @@
 - [2022.09.10](https://github.com/NayeonKeum/website): [K8s] Open source contribution
 - [2022.09.11](https://github.com/NayeonKeum/dashboard): [K8s] Open source contribution
 - [2022.09.12](): [Statistics] mathematical statistics
-- [2022.09.13)(https://github.com/kubernetes/website/pull/36726): [K8s] Open source contribution
+- [2022.09.13](https://github.com/kubernetes/website/pull/36726): [K8s] Open source contribution
+- [2022.09.14](): [Server] server setting(aws)
