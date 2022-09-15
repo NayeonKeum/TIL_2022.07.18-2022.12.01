@@ -61,3 +61,4 @@
 - [2022.09.12](): [Statistics] mathematical statistics
 - [2022.09.13](https://github.com/kubernetes/website/pull/36726): [K8s] Open source contribution
 - [2022.09.14](): [Server] server setting(aws)
+- [2022.09.15](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Preprocessing
