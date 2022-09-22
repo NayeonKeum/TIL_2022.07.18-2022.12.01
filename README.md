@@ -62,7 +62,7 @@
 - [2022.09.13](https://github.com/kubernetes/website/pull/36726): [K8s] Open source contribution
 - [2022.09.14](): [Server] server setting(aws)
 - [2022.09.15](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Preprocessing
-- [2022.09.16]: [Bigdata Processing] read paper [MapReduce: Simpified Data Processing on Large Clusters]
+- [2022.09.16](): [Bigdata Processing] read paper [MapReduce: Simpified Data Processing on Large Clusters]
 - [2022.09.17](): [Search Engine] Elasticsearch guide 10, 11
 - [2022.09.18](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Preprocessing
 - [2022.09.19](https://proud-passbook-808.notion.site/541f974a36894cb1837e06c682c37c12): Getting ready for Git and Github open lecture
