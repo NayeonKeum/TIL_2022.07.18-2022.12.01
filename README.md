@@ -69,3 +69,7 @@
 - [2022.09.20](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Preprocessing log data to n-gram
 - [2022.09.21](https://proud-passbook-808.notion.site/541f974a36894cb1837e06c682c37c12): Getting ready for Git and Github open lecture
 - [2022.09.22](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Preprocessing n-gram to inverse-index & combine with apriori, fp-growth
+- [2022.09.23](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] ideation
+- [2022.09.24](): day-off
+- [2022.09.25](): [Search Engine] lecture about nature language processing
+
