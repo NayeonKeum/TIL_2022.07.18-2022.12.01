@@ -72,4 +72,4 @@
 - [2022.09.23](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] ideation
 - [2022.09.24](): day-off
 - [2022.09.25](): [Search Engine] lecture about nature language processing
-
+- [2022.09.26](): [Operation System] Studied about process
