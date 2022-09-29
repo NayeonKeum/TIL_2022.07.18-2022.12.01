@@ -72,4 +72,7 @@
 - [2022.09.23](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] ideation
 - [2022.09.24](): day-off
 - [2022.09.25](): [Search Engine] lecture about nature language processing
-- [2022.09.26](): [Operation System] Studied about process
+- [2022.09.26](): [Operation System] Studied about process and thread
+- [2022.09.27](): [Operation System] Studied about SMBs and PCBs, Memory hierarchy 
+- [2022.09.28](): [Mathematical Statistics] 5.2, 5.3 
+- [2022.09.29](): [Bigdata Processing] Read papers about MapReduce
