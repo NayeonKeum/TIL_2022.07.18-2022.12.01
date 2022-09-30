@@ -76,3 +76,4 @@
 - [2022.09.27](): [Operation System] Studied about SMBs and PCBs, Memory hierarchy 
 - [2022.09.28](): [Mathematical Statistics] 5.2, 5.3 
 - [2022.09.29](): [Bigdata Processing] Read papers about MapReduce
+- [2022.09.30](): [Network] SAN study
