@@ -76,4 +76,7 @@
 - [2022.09.27](): [Operation System] Studied about SMBs and PCBs, Memory hierarchy 
 - [2022.09.28](): [Mathematical Statistics] 5.2, 5.3 
 - [2022.09.29](): [Bigdata Processing] Read papers about MapReduce
-- [2022.09.30](): [Network] SAN study
+- [2022.09.30](): [Network] Studied SAN
+- [2022.10.1](): [Elasitcsearch] Read papers about ess
+- [2022.10.2](): [Bigdata Processing] Read papers about building Hadoop clusters in ISC envs
+
