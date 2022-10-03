@@ -79,4 +79,5 @@
 - [2022.09.30](): [Network] Studied SAN
 - [2022.10.1](): [Elasitcsearch] Read papers about ess
 - [2022.10.2](): [Bigdata Processing] Read papers about building Hadoop clusters in ISC envs
+- [2022.10.03](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Preprocseeing
 
