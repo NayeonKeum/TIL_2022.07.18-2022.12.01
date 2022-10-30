@@ -90,3 +90,4 @@
 - [2022.10.11](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Clustering
 - [2022.10.12](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Clustering
 - [2022.10.13](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Clustering Interpret
+- [2022.10.13-2022.10.30](): Off due to Midterm
