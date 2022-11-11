@@ -100,6 +100,8 @@
 - [2022.11.07](): Lab work
 - [2022.11.08](): School work
 - [2022.11.09](): School work
+- [2022.11.10](): Lab work
+- [2022.11.11](): School work
 
 
 
