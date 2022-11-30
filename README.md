@@ -32,29 +32,29 @@
 - [2022.08.14](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.08.15](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.08.16](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
-- [2022.08.17](): [Search Engine] Elasticsearch Guide 1, 2
+- [2022.08.17]: [Search Engine] Elasticsearch Guide 1, 2
 - [2022.08.18](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.08.19](https://github.com/NayeonKeum/Algo-java): [CodingTest] Java #3
 - [2022.08.20](https://nayeonkeum.tistory.com/6): [Blog] Wrote a post 
-- [2022.08.21](): [Search Engine] Elasticsearch Guide 3, 4
+- [2022.08.21]: [Search Engine] Elasticsearch Guide 3, 4
 - [2022.08.22](https://github.com/NayeonKeum/website): [K8s] Open source contribution
 - [2022.08.23](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.08.24](https://github.com/Scooter-2022): [AI-HPA] get ready for the finals
 - [2022.08.25](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
-- [2022.08.26](): day off
-- [2022.08.27](): [Search Engine] Elasticsearch Guide 5
-- [2022.08.28](): [Search Engine] Elasticsearch guide 6
-- [2022.08.29](): day off
+- [2022.08.26]: day off
+- [2022.08.27]: [Search Engine] Elasticsearch Guide 5
+- [2022.08.28]: [Search Engine] Elasticsearch guide 6
+- [2022.08.29]: day off
 - [2022.08.30](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.08.31](https://github.com/BOAZ-bigdata/19Engineering_BASE):[BOAZ] produce lecture materials(branch: week_7)
 - [2022.09.01](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
 - [2022.09.02](https://github.com/NayeonKeum/Algo-java/tree/master/Section1): [CodingTest] Java #3
-- [2022.09.03](): Build k8s localy
-- [2022.09.04](): [Search Engine] Elasticsearch guide 7
-- [2022.09.05](): [lecture] cloud computing, network
-- [2022.09.06](): [lecture] mathematical statistics, bigdata statistical analysis, bigdata processing
-- [2022.09.07](): career fair
-- [2022.09.08](): day off
+- [2022.09.03]: Build k8s localy
+- [2022.09.04]: [Search Engine] Elasticsearch guide 7
+- [2022.09.05]: [lecture] cloud computing, network
+- [2022.09.06]: [lecture] mathematical statistics, bigdata statistical analysis, bigdata processing
+- [2022.09.07]: career fair
+- [2022.09.08]: day off
 - [2022.09.09](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Case Study
 - [2022.09.10](https://github.com/NayeonKeum/website): [K8s] Open source contribution
 - [2022.09.11](https://github.com/NayeonKeum/dashboard): [K8s] Open source contribution
@@ -70,15 +70,15 @@
 - [2022.09.21](https://proud-passbook-808.notion.site/541f974a36894cb1837e06c682c37c12): Getting ready for Git and Github open lecture
 - [2022.09.22](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Preprocessing n-gram to inverse-index & combine with apriori, fp-growth
 - [2022.09.23](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] ideation
-- [2022.09.24](): day-off
-- [2022.09.25](): [Search Engine] lecture about nature language processing
-- [2022.09.26](): [Operation System] Studied about process and thread
-- [2022.09.27](): [Operation System] Studied about SMBs and PCBs, Memory hierarchy 
-- [2022.09.28](): [Mathematical Statistics] 5.2, 5.3 
-- [2022.09.29](): [Bigdata Processing] Read papers about MapReduce
-- [2022.09.30](): [Network] Studied SAN
-- [2022.10.1](): [Elasitcsearch] Read papers about ess
-- [2022.10.2](): [Bigdata Processing] Read papers about building Hadoop clusters in ISC envs
+- [2022.09.24]: day-off
+- [2022.09.25]: [Search Engine] lecture about nature language processing
+- [2022.09.26]: [Operation System] Studied about process and thread
+- [2022.09.27]: [Operation System] Studied about SMBs and PCBs, Memory hierarchy 
+- [2022.09.28]: [Mathematical Statistics] 5.2, 5.3 
+- [2022.09.29]: [Bigdata Processing] Read papers about MapReduce
+- [2022.09.30]: [Network] Studied SAN
+- [2022.10.1]: [Elasitcsearch] Read papers about ess
+- [2022.10.2]: [Bigdata Processing] Read papers about building Hadoop clusters in ISC envs
 - [2022.10.03](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Preprocseeing
 - [2022.10.04](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Preprocseeing
 - [2022.10.05](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Preprocseeing
@@ -90,34 +90,34 @@
 - [2022.10.11](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Clustering
 - [2022.10.12](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Clustering
 - [2022.10.13](https://github.com/NayeonKeum/BigContest2022): [Bigcontest2022] Clustering Interpret
-- [2022.10.13-2022.10.31](): Off due to Midterm
-- [2022.11.01](): Lab work
-- [2022.11.02](): Lab work
-- [2022.11.03](): Lab work
-- [2022.11.04](): Lab work
-- [2022.11.05](): Lab work
-- [2022.11.06](): Lab work
-- [2022.11.07](): Lab work
-- [2022.11.08](): School work
-- [2022.11.09](): School work
-- [2022.11.10](): Lab work
-- [2022.11.11](): School work
-- [2022.11.12](): Lab work
-- [2022.11.13](): Lab work
-- [2022.11.14](): Lab work
-- [2022.11.15](): School work
-- [2022.11.16](): School work
-- [2022.11.17](): Lab work
-- [2022.11.18](): Lab work
-- [2022.11.19](): School work
-- [2022.11.20](): Lab work
-- [2022.11.21](): Lab work
-- [2022.11.22](): School work
-- [2022.11.23](): Lab work
-- [2022.11.24](): Lab work
-- [2022.11.25](): School work
-- [2022.11.26](): Lab work
-- [2022.11.27](): School work
-- [2022.11.28](): Lab work
-- [2022.11.29](): Lab work
-- [2022.11.30](): School work
+- [2022.10.13-2022.10.31]: Off due to Midterm
+- [2022.11.01]: Lab work
+- [2022.11.02]: Lab work
+- [2022.11.03]: Lab work
+- [2022.11.04]: Lab work
+- [2022.11.05]: Lab work
+- [2022.11.06]: Lab work
+- [2022.11.07]: Lab work
+- [2022.11.08]: School work
+- [2022.11.09]: School work
+- [2022.11.10]: Lab work
+- [2022.11.11]: School work
+- [2022.11.12]: Lab work
+- [2022.11.13]: Lab work
+- [2022.11.14]: Lab work
+- [2022.11.15]: School work
+- [2022.11.16]: School work
+- [2022.11.17]: Lab work
+- [2022.11.18]: Lab work
+- [2022.11.19]: School work
+- [2022.11.20]: Lab work
+- [2022.11.21]: Lab work
+- [2022.11.22]: School work
+- [2022.11.23]: Lab work
+- [2022.11.24]: Lab work
+- [2022.11.25]: School work
+- [2022.11.26]: Lab work
+- [2022.11.27]: School work
+- [2022.11.28]: Lab work
+- [2022.11.29]: Lab work
+- [2022.11.30]: School work
