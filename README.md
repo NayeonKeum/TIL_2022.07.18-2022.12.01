@@ -122,4 +122,4 @@
 - [2022.11.29]: Lab work
 - [2022.11.30]: School work
 - [2022.12.01]: School work
-
+- [2022.12.02-2022.12.18]: Off due to Finalterm
